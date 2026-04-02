@@ -1,4 +1,4 @@
-GST Fraud Detector
+GST Fraud Detector(Live Demo: [Click here](https://gst-fraud-detector.streamlit.app/))
 
 Detect Potential GST Fraud Using Data Analytics & Visualization
 
